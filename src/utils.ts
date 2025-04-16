@@ -1,5 +1,5 @@
 import { getPreferenceValues, showToast, Toast } from '@raycast/api';
-import {showFailureToast} from "@raycast/utils";
+import { showFailureToast } from '@raycast/utils';
 
 type Preferences = {
   privateKey: string;
