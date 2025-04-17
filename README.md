@@ -16,3 +16,20 @@ A Raycast extension that lets users publish notes to [Nostr](https://github.com/
 
 ## Getting Started
 Open the command in Raycast, type your note, and hit Submit!
+
+## Development
+
+
+### 1. Install Dependencies
+
+```bash
+npm install
+```
+
+### 2. Start the extension in dev mode
+
+```bash
+npm run dev
+```
+
+The extension should now be available in Raycast
